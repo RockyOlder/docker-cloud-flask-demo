@@ -4,7 +4,7 @@ Flask starter project... https://cloud.docker.com
 
 ## Quick Start
 
-### Basics
+### Basics data
 
 1. Activate a virtualenv
 1. Install the requirements
